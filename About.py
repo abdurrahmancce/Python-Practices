@@ -1,0 +1,5 @@
+print("Name:Abdur Rahman")
+print("Passion:A Python Developer")
+print("Study:Studied at International Islamic University Chittagong")
+print("Expert in javascript, HTML, CSS, C, C++ and Python")
+print("ID:E2410..")
