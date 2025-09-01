@@ -19,7 +19,7 @@ print("The type of variable having value", c, " is ", type(c))
 d=10+3j
 print("The type of variable having value", d, " is ", type(d))
 
-str = 'Hello World!'
+str = 'Hello World!' 
 
 print (str)          # Prints complete string
 print (str[0])       # Prints first character of the string
@@ -30,4 +30,4 @@ print (str + "TEST") # Prints concatenated string
 
 # Using bytes() function to create bytes
 b1 = bytes([65, 66, 67, 68, 69])  
-print(type(b1))
+print(type(b1),[65, 66, 67, 68, 69])
