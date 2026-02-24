@@ -1,0 +1,7 @@
+print(4/2)
+print(2/4)
+print(2//4)
+print(2.0/4)
+print(2.0//4)
+print(2 * 3.0)
+print(3.0 ** 2)
